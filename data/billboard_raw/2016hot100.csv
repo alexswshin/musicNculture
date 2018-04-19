@@ -1,100 +1,100 @@
-@rank@artist@title
-0@1@Justin Bieber@Love Yourself
-1@2@Justin Bieber@Sorry
-2@3@Drake Featuring WizKid & Kyla@One Dance
-3@4@Rihanna Featuring Drake@Work
-4@5@twenty one pilots@Stressed Out
-5@6@Desiigner@Panda
-6@7@Adele@Hello
-7@8@The Chainsmokers Featuring Daya@Don't Let Me Down
-8@9@Justin Timberlake@Can't Stop The Feeling!
-9@10@The Chainsmokers Featuring Halsey@Closer
-10@11@Sia Featuring Sean Paul@Cheap Thrills
-11@12@Lukas Graham@7 Years
-12@13@Rihanna@Needed Me
-13@14@Flo Rida@My House
-14@15@Mike Posner@I Took A Pill In Ibiza
-15@16@Fifth Harmony Featuring Ty Dolla $ign@Work From Home
-16@17@Calvin Harris Featuring Rihanna@This Is What You Came For
-17@18@DNCE@Cake By The Ocean
-18@19@ G-Eazy x Bebe Rexha@Me, Myself & I
-19@20@twenty one pilots@Ride
-20@21@twenty one pilots@Heathens
-21@22@Zayn@Pillowtalk
-22@23@Shawn Mendes@Stitches
-23@24@Drake@Hotline Bling
-24@25@Major Lazer Featuring Justin Bieber & MO@Cold Water
-25@26@Adele@Send My Love (To Your New Lover)
-26@27@The Chainsmokers Featuring Rozes@Roses
-27@28@Shawn Mendes@Treat You Better
-28@29@Drake Featuring Rihanna@Too Good
-29@30@Future Featuring The Weeknd@Low Life
-30@31@Justin Bieber@What Do You Mean?
-31@32@The Weeknd@The Hills
-32@33@P!nk@Just Like Fire
-33@34@D.R.A.M. Featuring Lil Yachty@Broccoli
-34@35@Bryson Tiller@Don't
-35@36@Ariana Grande@Dangerous Woman
-36@37@Drake & Future@Jumpman
-37@38@gnash Featuring Olivia O'Brien@I Hate U I Love U
-38@39@Alessia Cara@Here
-39@40@Selena Gomez@Same Old Love
-40@41@Drake@Controlla
-41@42@Meghan Trainor Featuring John Legend@Like I'm Gonna Lose You
-42@43@Charlie Puth@One Call Away
-43@44@James Bay@Let It Go
-44@45@Meghan Trainor@No
-45@46@Zara Larsson & MNEK@Never Forget You
-46@47@DJ Snake Featuring Justin Bieber@Let Me Love You
-47@48@Kent Jones@Don't Mind
-48@49@Florida Georgia Line@H.O.L.Y.
-49@50@Charlie Puth Featuring Selena Gomez@We Don't Talk Anymore
-50@51@Ariana Grande@Into You
-51@52@Kiiara@Gold
-52@53@Bryson Tiller@Exchange
-53@54@Fetty Wap Featuring Remy Boyz@679
-54@55@Jeremih@Oui
-55@56@Selena Gomez@Hands To Myself
-56@57@Kevin Gates@2 Phones
-57@58@The Weeknd Featuring Daft Punk@Starboy
-58@59@DJ Khaled Featuring Drake@For Free
-59@60@Flume Featuring Kai@Never Be Like You
-60@61@The Weeknd@In The Night
-61@62@Meghan Trainor@Me Too
-62@63@Elle King@Ex's & Oh's
-63@64@Thomas Rhett@Die A Happy Man
-64@65@Post Malone@White Iverson
-65@66@Nick Jonas Featuring Tove Lo@Close
-66@67@X Ambassadors@Unsteady
-67@68@Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors@Sucker For Pain
-68@69@Yo Gotti Featuring Nicki Minaj@Down In The DM
-69@70@Tory Lanez@Luv
-70@71@Beyonce@Sorry
-71@72@The Weeknd@Can't Feel My Face
-72@73@Coldplay@Hymn For The Weekend
-73@74@Tory Lanez@Say It
-74@75@Travis Scott@Antidote
-75@76@Ruth B@Lost Boy
-76@77@Ariana Grande Featuring Nicki Minaj@Side To Side
-77@78@Daya@Sit Still, Look Pretty
-78@79@Taylor Swift@Wildest Dreams
-79@80@DJ Snake Featuring Bipolar Sunshine@Middle
-80@81@Ellie Goulding@ On My Mind
-81@82@Drake Featuring The Throne@Pop Style
-82@83@Adele@When We Were Young
-83@84@Daya@Hide Away
-84@85@Major Lazer & DJ Snake Featuring MO@Lean On
-85@86@Shawn Mendes & Camila Cabello@I Know What You Did Last Summer
-86@87@Silento@Watch Me
-87@88@Chris Brown@Back To Sleep
-88@89@Usher Featuring Young Thug@No Limit
-89@90@O.T. Genasis Featuring Young Dolph@Cut It
-90@91@Kevin Gates@Really Really
-91@92@Fifth Harmony Featuring Fetty Wap@All In My Head (Flex)
-92@93@Hailee Steinfeld & Grey Featuring Zedd@Starving
-93@94@Coldplay@Adventure Of A Lifetime
-94@95@Tim McGraw@Humble And Kind
-95@96@Future@Wicked
-96@97@Desiigner@Tiimmy Turner
-97@98@Wiz Khalifa Featuring Charlie Puth@See You Again
-98@99@One Direction@Perfect
+@index@position@year@title@artist@decade@song_key
+0@0@1@2016@Love Yourself@Justin Bieber@2010@2016_1
+1@1@2@2016@Sorry@Justin Bieber@2010@2016_2
+2@2@3@2016@One Dance@Drake Featuring WizKid & Kyla@2010@2016_3
+3@3@4@2016@Work@Rihanna Featuring Drake@2010@2016_4
+4@4@5@2016@Stressed Out@twenty one pilots@2010@2016_5
+5@5@6@2016@Panda@Desiigner@2010@2016_6
+6@6@7@2016@Hello@Adele@2010@2016_7
+7@7@8@2016@Don't Let Me Down@The Chainsmokers Featuring Daya@2010@2016_8
+8@8@9@2016@Can't Stop The Feeling!@Justin Timberlake@2010@2016_9
+9@9@10@2016@Closer@The Chainsmokers Featuring Halsey@2010@2016_10
+10@10@11@2016@Cheap Thrills@Sia Featuring Sean Paul@2010@2016_11
+11@11@12@2016@7 Years@Lukas Graham@2010@2016_12
+12@12@13@2016@Needed Me@Rihanna@2010@2016_13
+13@13@14@2016@My House@Flo Rida@2010@2016_14
+14@14@15@2016@I Took A Pill In Ibiza@Mike Posner@2010@2016_15
+15@15@16@2016@Work From Home@Fifth Harmony Featuring Ty Dolla $ign@2010@2016_16
+16@16@17@2016@This Is What You Came For@Calvin Harris Featuring Rihanna@2010@2016_17
+17@17@18@2016@Cake By The Ocean@DNCE@2010@2016_18
+18@18@19@2016@Me, Myself & I@ G-Eazy x Bebe Rexha@2010@2016_19
+19@19@20@2016@Ride@twenty one pilots@2010@2016_20
+20@20@21@2016@Heathens@twenty one pilots@2010@2016_21
+21@21@22@2016@Pillowtalk@Zayn@2010@2016_22
+22@22@23@2016@Stitches@Shawn Mendes@2010@2016_23
+23@23@24@2016@Hotline Bling@Drake@2010@2016_24
+24@24@25@2016@Cold Water@Major Lazer Featuring Justin Bieber & MO@2010@2016_25
+25@25@26@2016@Send My Love (To Your New Lover)@Adele@2010@2016_26
+26@26@27@2016@Roses@The Chainsmokers Featuring Rozes@2010@2016_27
+27@27@28@2016@Treat You Better@Shawn Mendes@2010@2016_28
+28@28@29@2016@Too Good@Drake Featuring Rihanna@2010@2016_29
+29@29@30@2016@Low Life@Future Featuring The Weeknd@2010@2016_30
+30@30@31@2016@What Do You Mean?@Justin Bieber@2010@2016_31
+31@31@32@2016@The Hills@The Weeknd@2010@2016_32
+32@32@33@2016@Just Like Fire@P!nk@2010@2016_33
+33@33@34@2016@Broccoli@D.R.A.M. Featuring Lil Yachty@2010@2016_34
+34@34@35@2016@Don't@Bryson Tiller@2010@2016_35
+35@35@36@2016@Dangerous Woman@Ariana Grande@2010@2016_36
+36@36@37@2016@Jumpman@Drake & Future@2010@2016_37
+37@37@38@2016@I Hate U I Love U@gnash Featuring Olivia O'Brien@2010@2016_38
+38@38@39@2016@Here@Alessia Cara@2010@2016_39
+39@39@40@2016@Same Old Love@Selena Gomez@2010@2016_40
+40@40@41@2016@Controlla@Drake@2010@2016_41
+41@41@42@2016@Like I'm Gonna Lose You@Meghan Trainor Featuring John Legend@2010@2016_42
+42@42@43@2016@One Call Away@Charlie Puth@2010@2016_43
+43@43@44@2016@Let It Go@James Bay@2010@2016_44
+44@44@45@2016@No@Meghan Trainor@2010@2016_45
+45@45@46@2016@Never Forget You@Zara Larsson & MNEK@2010@2016_46
+46@46@47@2016@Let Me Love You@DJ Snake Featuring Justin Bieber@2010@2016_47
+47@47@48@2016@Don't Mind@Kent Jones@2010@2016_48
+48@48@49@2016@H.O.L.Y.@Florida Georgia Line@2010@2016_49
+49@49@50@2016@We Don't Talk Anymore@Charlie Puth Featuring Selena Gomez@2010@2016_50
+50@50@51@2016@Into You@Ariana Grande@2010@2016_51
+51@51@52@2016@Gold@Kiiara@2010@2016_52
+52@52@53@2016@Exchange@Bryson Tiller@2010@2016_53
+53@53@54@2016@679@Fetty Wap Featuring Remy Boyz@2010@2016_54
+54@54@55@2016@Oui@Jeremih@2010@2016_55
+55@55@56@2016@Hands To Myself@Selena Gomez@2010@2016_56
+56@56@57@2016@2 Phones@Kevin Gates@2010@2016_57
+57@57@58@2016@Starboy@The Weeknd Featuring Daft Punk@2010@2016_58
+58@58@59@2016@For Free@DJ Khaled Featuring Drake@2010@2016_59
+59@59@60@2016@Never Be Like You@Flume Featuring Kai@2010@2016_60
+60@60@61@2016@In The Night@The Weeknd@2010@2016_61
+61@61@62@2016@Me Too@Meghan Trainor@2010@2016_62
+62@62@63@2016@Ex's & Oh's@Elle King@2010@2016_63
+63@63@64@2016@Die A Happy Man@Thomas Rhett@2010@2016_64
+64@64@65@2016@White Iverson@Post Malone@2010@2016_65
+65@65@66@2016@Close@Nick Jonas Featuring Tove Lo@2010@2016_66
+66@66@67@2016@Unsteady@X Ambassadors@2010@2016_67
+67@67@68@2016@Sucker For Pain@Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors@2010@2016_68
+68@68@69@2016@Down In The DM@Yo Gotti Featuring Nicki Minaj@2010@2016_69
+69@69@70@2016@Luv@Tory Lanez@2010@2016_70
+70@70@71@2016@Sorry@Beyonce@2010@2016_71
+71@71@72@2016@Can't Feel My Face@The Weeknd@2010@2016_72
+72@72@73@2016@Hymn For The Weekend@Coldplay@2010@2016_73
+73@73@74@2016@Say It@Tory Lanez@2010@2016_74
+74@74@75@2016@Antidote@Travis Scott@2010@2016_75
+75@75@76@2016@Lost Boy@Ruth B@2010@2016_76
+76@76@77@2016@Side To Side@Ariana Grande Featuring Nicki Minaj@2010@2016_77
+77@77@78@2016@Sit Still, Look Pretty@Daya@2010@2016_78
+78@78@79@2016@Wildest Dreams@Taylor Swift@2010@2016_79
+79@79@80@2016@Middle@DJ Snake Featuring Bipolar Sunshine@2010@2016_80
+80@80@81@2016@ On My Mind@Ellie Goulding@2010@2016_81
+81@81@82@2016@Pop Style@Drake Featuring The Throne@2010@2016_82
+82@82@83@2016@When We Were Young@Adele@2010@2016_83
+83@83@84@2016@Hide Away@Daya@2010@2016_84
+84@84@85@2016@Lean On@Major Lazer & DJ Snake Featuring MO@2010@2016_85
+85@85@86@2016@I Know What You Did Last Summer@Shawn Mendes & Camila Cabello@2010@2016_86
+86@86@87@2016@Watch Me@Silento@2010@2016_87
+87@87@88@2016@Back To Sleep@Chris Brown@2010@2016_88
+88@88@89@2016@No Limit@Usher Featuring Young Thug@2010@2016_89
+89@89@90@2016@Cut It@O.T. Genasis Featuring Young Dolph@2010@2016_90
+90@90@91@2016@Really Really@Kevin Gates@2010@2016_91
+91@91@92@2016@All In My Head (Flex)@Fifth Harmony Featuring Fetty Wap@2010@2016_92
+92@92@93@2016@Starving@Hailee Steinfeld & Grey Featuring Zedd@2010@2016_93
+93@93@94@2016@Adventure Of A Lifetime@Coldplay@2010@2016_94
+94@94@95@2016@Humble And Kind@Tim McGraw@2010@2016_95
+95@95@96@2016@Wicked@Future@2010@2016_96
+96@96@97@2016@Tiimmy Turner@Desiigner@2010@2016_97
+97@97@98@2016@See You Again@Wiz Khalifa Featuring Charlie Puth@2010@2016_98
+98@98@99@2016@Perfect@One Direction@2010@2016_99

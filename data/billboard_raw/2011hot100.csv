@@ -1,100 +1,100 @@
-@rank@artist@title
-0@1@Adele@Rolling In The Deep
-1@2@LMFAO Featuring Lauren Bennett & GoonRock@Party Rock Anthem
-2@3@Katy Perry@Firework
-3@4@Katy Perry Featuring Kanye West@E.T.
-4@5@Pitbull Featuring Ne-Yo, Afrojack & Nayer@Give Me Everything
-5@6@Bruno Mars@Grenade
-6@7@Nicki Minaj@Super Bass
-7@8@Maroon 5 Featuring Christina Aguilera@Moves Like Jagger
-8@9@The Black Eyed Peas@Just Can't Get Enough
-9@10@Jennifer Lopez Featuring Pitbull@On The Floor
-10@11@Rihanna@S&M
-11@12@Foster The People@Pumped Up Kicks
-12@13@Katy Perry@Last Friday Night (T.G.I.F.)
-13@14@Bruno Mars@Just The Way You Are
-14@15@Enrique Iglesias Featuring Ludacris & DJ Frank E@Tonight (I'm Lovin' You)
-15@16@P!nk@Raise Your Glass
-16@17@Lady Gaga@Born This Way
-17@18@P!nk@F**kin' Perfect
-18@19@Rihanna Featuring Drake@What's My Name?
-19@20@Chris Brown Featuring Lil Wayne & Busta Rhymes@Look At Me Now
-20@21@Jeremih Featuring 50 Cent@Down On Me
-21@22@Lil Wayne@How To Love
-22@23@Adele@Someone Like You
-23@24@OneRepublic@Good Life
-24@25@Bruno Mars@The Lazy Song
-25@26@Britney Spears@Till The World Ends
-26@27@Lupe Fiasco@The Show Goes On
-27@28@Lady Gaga@The Edge Of Glory
-28@29@Ke$ha@We R Who We R
-29@30@Wiz Khalifa@Black And Yellow
-30@31@Hot Chelle Rae@Tonight Tonight
-31@32@Ke$ha@Blow
-32@33@Bad Meets Evil Featuring Bruno Mars@Lighters
-33@34@The Band Perry@If I Die Young
-34@35@Gym Class Heroes Featuring Adam Levine@Stereo Hearts
-35@36@The Black Eyed Peas@The Time (Dirty Bit)
-36@37@Diddy - Dirty Money Featuring Skylar Grey@Coming Home
-37@38@Pitbull Featuring T-Pain@Hey Baby (Drop It To The Floor)
-38@39@Rihanna@Only Girl (In The World)
-39@40@Lil Wayne Featuring Cory Gunz@6 Foot 7 Foot
-40@41@Lady Antebellum@Just A Kiss
-41@42@Jason Aldean@Dirt Road Anthem
-42@43@Taio Cruz@Dynamite
-43@44@Waka Flocka Flame Featuring Roscoe Dash & Wale@No Hands
-44@45@Britney Spears@I Wanna Go
-45@46@DJ Khaled Featuring Drake, Rick Ross & Lil Wayne@I'm On One
-46@47@Cobra Starship Featuring Sabi@You Make Me Feel...
-47@48@Chris Brown@Yeah 3X
-48@49@Nicki Minaj Featuring Drake@Moment 4 Life
-49@50@Dr. Dre Featuring Eminem & Skylar Grey@I Need A Doctor
-50@51@Nelly@Just A Dream
-51@52@Kelly Rowland Featuring Lil Wayne@Motivation
-52@53@Edward Maya & Vika Jigulina@Stereo Love
-53@54@Christina Perri@Jar Of Hearts
-54@55@Wiz Khalifa@Roll Up
-55@56@LMFAO@Sexy And I Know It
-56@57@Far*East Movement Featuring Ryan Tedder@Rocketeer
-57@58@Kanye West@All Of The Lights
-58@59@Britney Spears@Hold It Against Me
-59@60@Usher@More
-60@61@Avril Lavigne@What The Hell
-61@62@Tinie Tempah Featuring Eric Turner@Written In The Stars
-62@63@Trey Songz Featuring Nicki Minaj@Bottoms Up
-63@64@Usher Featuring Pitbull@DJ Got Us Fallin' In Love
-64@65@The Script@For The First Time
-65@66@Blake Shelton@Honey Bee
-66@67@Jason Aldean With Kelly Clarkson@Don't You Wanna Stay
-67@68@Rihanna Featuring Calvin Harris@We Found Love
-68@69@Keri Hilson@Pretty Girl Rock
-69@70@Lady Gaga@You And I
-70@71@Far*East Movement Featuring Cataracs & Dev@Like A G6
-71@72@David Guetta Featuring Usher@Without You
-72@73@Taylor Swift@Back To December
-73@74@Katy Perry@Teenage Dream
-74@75@Eli Young Band@Crazy Girl
-75@76@Rihanna@Cheers (Drink To That)
-76@77@Selena Gomez & The Scene@Who Says
-77@78@Jake Owen@Barefoot Blue Jean Night
-78@79@Zac Brown Band Featuring Jimmy Buffett@Knee Deep
-79@80@Luke Bryan@Country Girl (Shake It For Me)
-80@81@Brad Paisley Duet With Carrie Underwood@Remind Me
-81@82@Dev@In The Dark
-82@83@New Boyz Featuring The Cataracs & Dev@Backseat
-83@84@Drake@Headlines
-84@85@Beyonce@Best Thing I Never Had
-85@86@Jason Derulo@Don't Wanna Go Home
-86@87@David Guetta Featuring Flo Rida & Nicki Minaj@Where Them Girls At
-87@88@Chris Brown@She Ain't You
-88@89@Rodney Atkins@Take A Back Road
-89@90@Mike Posner@Please Don't Go
-90@91@Miguel@Sure Thing
-91@92@Jessie J Featuring B.o.B@Price Tag
-92@93@Blake Shelton@God Gave Me You
-93@94@Lil Wayne Featuring Drake@She Will
-94@95@Thompson Square@Are You Gonna Kiss Me Or Not
-95@96@Neon Trees@Animal
-96@97@Kenny Chesney Featuring Grace Potter@You And Tequila
-97@98@Zac Brown Band@Colder Weather
-98@99@Big Sean Featuring Chris Brown@My Last
+@index@position@year@title@artist@decade@song_key
+0@0@1@2011@Rolling In The Deep@Adele@2010@2011_1
+1@1@2@2011@Party Rock Anthem@LMFAO Featuring Lauren Bennett & GoonRock@2010@2011_2
+2@2@3@2011@Firework@Katy Perry@2010@2011_3
+3@3@4@2011@E.T.@Katy Perry Featuring Kanye West@2010@2011_4
+4@4@5@2011@Give Me Everything@Pitbull Featuring Ne-Yo, Afrojack & Nayer@2010@2011_5
+5@5@6@2011@Grenade@Bruno Mars@2010@2011_6
+6@6@7@2011@Super Bass@Nicki Minaj@2010@2011_7
+7@7@8@2011@Moves Like Jagger@Maroon 5 Featuring Christina Aguilera@2010@2011_8
+8@8@9@2011@Just Can't Get Enough@The Black Eyed Peas@2010@2011_9
+9@9@10@2011@On The Floor@Jennifer Lopez Featuring Pitbull@2010@2011_10
+10@10@11@2011@S&M@Rihanna@2010@2011_11
+11@11@12@2011@Pumped Up Kicks@Foster The People@2010@2011_12
+12@12@13@2011@Last Friday Night (T.G.I.F.)@Katy Perry@2010@2011_13
+13@13@14@2011@Just The Way You Are@Bruno Mars@2010@2011_14
+14@14@15@2011@Tonight (I'm Lovin' You)@Enrique Iglesias Featuring Ludacris & DJ Frank E@2010@2011_15
+15@15@16@2011@Raise Your Glass@P!nk@2010@2011_16
+16@16@17@2011@Born This Way@Lady Gaga@2010@2011_17
+17@17@18@2011@F**kin' Perfect@P!nk@2010@2011_18
+18@18@19@2011@What's My Name?@Rihanna Featuring Drake@2010@2011_19
+19@19@20@2011@Look At Me Now@Chris Brown Featuring Lil Wayne & Busta Rhymes@2010@2011_20
+20@20@21@2011@Down On Me@Jeremih Featuring 50 Cent@2010@2011_21
+21@21@22@2011@How To Love@Lil Wayne@2010@2011_22
+22@22@23@2011@Someone Like You@Adele@2010@2011_23
+23@23@24@2011@Good Life@OneRepublic@2010@2011_24
+24@24@25@2011@The Lazy Song@Bruno Mars@2010@2011_25
+25@25@26@2011@Till The World Ends@Britney Spears@2010@2011_26
+26@26@27@2011@The Show Goes On@Lupe Fiasco@2010@2011_27
+27@27@28@2011@The Edge Of Glory@Lady Gaga@2010@2011_28
+28@28@29@2011@We R Who We R@Ke$ha@2010@2011_29
+29@29@30@2011@Black And Yellow@Wiz Khalifa@2010@2011_30
+30@30@31@2011@Tonight Tonight@Hot Chelle Rae@2010@2011_31
+31@31@32@2011@Blow@Ke$ha@2010@2011_32
+32@32@33@2011@Lighters@Bad Meets Evil Featuring Bruno Mars@2010@2011_33
+33@33@34@2011@If I Die Young@The Band Perry@2010@2011_34
+34@34@35@2011@Stereo Hearts@Gym Class Heroes Featuring Adam Levine@2010@2011_35
+35@35@36@2011@The Time (Dirty Bit)@The Black Eyed Peas@2010@2011_36
+36@36@37@2011@Coming Home@Diddy - Dirty Money Featuring Skylar Grey@2010@2011_37
+37@37@38@2011@Hey Baby (Drop It To The Floor)@Pitbull Featuring T-Pain@2010@2011_38
+38@38@39@2011@Only Girl (In The World)@Rihanna@2010@2011_39
+39@39@40@2011@6 Foot 7 Foot@Lil Wayne Featuring Cory Gunz@2010@2011_40
+40@40@41@2011@Just A Kiss@Lady Antebellum@2010@2011_41
+41@41@42@2011@Dirt Road Anthem@Jason Aldean@2010@2011_42
+42@42@43@2011@Dynamite@Taio Cruz@2010@2011_43
+43@43@44@2011@No Hands@Waka Flocka Flame Featuring Roscoe Dash & Wale@2010@2011_44
+44@44@45@2011@I Wanna Go@Britney Spears@2010@2011_45
+45@45@46@2011@I'm On One@DJ Khaled Featuring Drake, Rick Ross & Lil Wayne@2010@2011_46
+46@46@47@2011@You Make Me Feel...@Cobra Starship Featuring Sabi@2010@2011_47
+47@47@48@2011@Yeah 3X@Chris Brown@2010@2011_48
+48@48@49@2011@Moment 4 Life@Nicki Minaj Featuring Drake@2010@2011_49
+49@49@50@2011@I Need A Doctor@Dr. Dre Featuring Eminem & Skylar Grey@2010@2011_50
+50@50@51@2011@Just A Dream@Nelly@2010@2011_51
+51@51@52@2011@Motivation@Kelly Rowland Featuring Lil Wayne@2010@2011_52
+52@52@53@2011@Stereo Love@Edward Maya & Vika Jigulina@2010@2011_53
+53@53@54@2011@Jar Of Hearts@Christina Perri@2010@2011_54
+54@54@55@2011@Roll Up@Wiz Khalifa@2010@2011_55
+55@55@56@2011@Sexy And I Know It@LMFAO@2010@2011_56
+56@56@57@2011@Rocketeer@Far*East Movement Featuring Ryan Tedder@2010@2011_57
+57@57@58@2011@All Of The Lights@Kanye West@2010@2011_58
+58@58@59@2011@Hold It Against Me@Britney Spears@2010@2011_59
+59@59@60@2011@More@Usher@2010@2011_60
+60@60@61@2011@What The Hell@Avril Lavigne@2010@2011_61
+61@61@62@2011@Written In The Stars@Tinie Tempah Featuring Eric Turner@2010@2011_62
+62@62@63@2011@Bottoms Up@Trey Songz Featuring Nicki Minaj@2010@2011_63
+63@63@64@2011@DJ Got Us Fallin' In Love@Usher Featuring Pitbull@2010@2011_64
+64@64@65@2011@For The First Time@The Script@2010@2011_65
+65@65@66@2011@Honey Bee@Blake Shelton@2010@2011_66
+66@66@67@2011@Don't You Wanna Stay@Jason Aldean With Kelly Clarkson@2010@2011_67
+67@67@68@2011@We Found Love@Rihanna Featuring Calvin Harris@2010@2011_68
+68@68@69@2011@Pretty Girl Rock@Keri Hilson@2010@2011_69
+69@69@70@2011@You And I@Lady Gaga@2010@2011_70
+70@70@71@2011@Like A G6@Far*East Movement Featuring Cataracs & Dev@2010@2011_71
+71@71@72@2011@Without You@David Guetta Featuring Usher@2010@2011_72
+72@72@73@2011@Back To December@Taylor Swift@2010@2011_73
+73@73@74@2011@Teenage Dream@Katy Perry@2010@2011_74
+74@74@75@2011@Crazy Girl@Eli Young Band@2010@2011_75
+75@75@76@2011@Cheers (Drink To That)@Rihanna@2010@2011_76
+76@76@77@2011@Who Says@Selena Gomez & The Scene@2010@2011_77
+77@77@78@2011@Barefoot Blue Jean Night@Jake Owen@2010@2011_78
+78@78@79@2011@Knee Deep@Zac Brown Band Featuring Jimmy Buffett@2010@2011_79
+79@79@80@2011@Country Girl (Shake It For Me)@Luke Bryan@2010@2011_80
+80@80@81@2011@Remind Me@Brad Paisley Duet With Carrie Underwood@2010@2011_81
+81@81@82@2011@In The Dark@Dev@2010@2011_82
+82@82@83@2011@Backseat@New Boyz Featuring The Cataracs & Dev@2010@2011_83
+83@83@84@2011@Headlines@Drake@2010@2011_84
+84@84@85@2011@Best Thing I Never Had@Beyonce@2010@2011_85
+85@85@86@2011@Don't Wanna Go Home@Jason Derulo@2010@2011_86
+86@86@87@2011@Where Them Girls At@David Guetta Featuring Flo Rida & Nicki Minaj@2010@2011_87
+87@87@88@2011@She Ain't You@Chris Brown@2010@2011_88
+88@88@89@2011@Take A Back Road@Rodney Atkins@2010@2011_89
+89@89@90@2011@Please Don't Go@Mike Posner@2010@2011_90
+90@90@91@2011@Sure Thing@Miguel@2010@2011_91
+91@91@92@2011@Price Tag@Jessie J Featuring B.o.B@2010@2011_92
+92@92@93@2011@God Gave Me You@Blake Shelton@2010@2011_93
+93@93@94@2011@She Will@Lil Wayne Featuring Drake@2010@2011_94
+94@94@95@2011@Are You Gonna Kiss Me Or Not@Thompson Square@2010@2011_95
+95@95@96@2011@Animal@Neon Trees@2010@2011_96
+96@96@97@2011@You And Tequila@Kenny Chesney Featuring Grace Potter@2010@2011_97
+97@97@98@2011@Colder Weather@Zac Brown Band@2010@2011_98
+98@98@99@2011@My Last@Big Sean Featuring Chris Brown@2010@2011_99

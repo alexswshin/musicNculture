@@ -1,101 +1,101 @@
-@rank@artist@title
-0@1@Mark Ronson Featuring Bruno Mars@Uptown Funk!
-1@2@Ed Sheeran@Thinking Out Loud
-2@3@Wiz Khalifa Featuring Charlie Puth@See You Again
-3@4@Fetty Wap@Trap Queen
-4@5@Maroon 5@Sugar
-5@6@WALK THE MOON@Shut Up And Dance
-6@7@Taylor Swift@Blank Space
-7@8@Silento@Watch Me
-8@9@The Weeknd@Earned It (Fifty Shades Of Grey)
-9@10@The Weeknd@The Hills
-10@11@OMI@Cheerleader
-11@12@The Weeknd@Can't Feel My Face
-12@13@Ellie Goulding@Love Me Like You Do
-13@14@Hozier@Take Me To Church
-14@15@Taylor Swift Featuring Kendrick Lamar@Bad Blood
-15@16@Major Lazer & DJ Snake Featuring MO@Lean On
-16@17@Jason Derulo@Want To Want Me
-17@18@Taylor Swift@Shake It Off
-18@19@Skrillex & Diplo With Justin Bieber@Where Are U Now
-19@20@Rachel Platten@Fight Song
-20@21@Fetty Wap Featuring Remy Boyz@679
-21@22@Meghan Trainor@Lips Are Movin
-22@23@Fifth Harmony Featuring Kid Ink@Worth It
-23@24@Omarion Featuring Chris Brown & Jhene Aiko@Post To Be
-24@25@Andy Grammer@Honey, I'm Good.
-25@26@Sam Smith@I'm Not The Only One
-26@27@Selena Gomez Featuring A$AP Rocky@Good For You
-27@28@Meghan Trainor@All About That Bass
-28@29@Taylor Swift@Style
-29@30@Drake@Hotline Bling
-30@31@David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack@Hey Mama
-31@32@Flo Rida Featuring Sage The Gemini & Lookas@G.D.F.R.
-32@33@Justin Bieber@What Do You Mean?
-33@34@Ed Sheeran@Photograph
-34@35@Adele@Hello
-35@36@Shawn Mendes@Stitches
-36@37@Tove Lo@Talking Body
-37@38@Nick Jonas@Jealous
-38@39@Pitbull & Ne-Yo@Time Of Our Lives
-39@40@R. City Featuring Adam Levine@Locked Away
-40@41@Natalie La Rose Featuring Jeremih@Somebody
-41@42@Rihanna & Kanye West & Paul McCartney@FourFiveSeconds
-42@43@Fall Out Boy@Centuries
-43@44@Fetty Wap Featuring Monty@My Way
-44@45@Sam Hunt@Take Your Time
-45@46@Maroon 5@Animals
-46@47@Big Sean Featuring E-40@I Don't F**k With You
-47@48@Rihanna@B**** Better Have My Money
-48@49@Rich Homie Quan@Flex (Ooh Ooh Ooh)
-49@50@T-Wayne@Nasty Freestyle
-50@51@Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown@Only
-51@52@Sia@Elastic Heart
-52@53@Demi Lovato@Cool For The Summer
-53@54@X Ambassadors@Renegades
-54@55@Usher Featuring Juicy J@I Don't Mind
-55@56@Ariana Grande & The Weeknd@Love Me Harder
-56@57@Taylor Swift@Wildest Dreams
-57@58@Sam Smith@Stay With Me
-58@59@DJ Snake & AlunaGeorge@You Know You Like It
-59@60@Fall Out Boy@Uma Thurman
-60@61@Beyonce@7/11
-61@62@Selena Gomez@The Heart Wants What It Wants
-62@63@Little Big Town@Girl Crush
-63@64@Trey Songz@Slow Motion
-64@65@One Direction@Drag Me Down
-65@66@Nicki Minaj Featuring Drake & Lil Wayne@Truffle Butter
-66@67@Ariana Grande@One Last Time
-67@68@Nick Jonas@Chains
-68@69@Meek Mill Featuring Chris Brown & Nicki Minaj@All Eyes On You
-69@70@Rae Sremmurd@No Type
-70@71@Vance Joy@Riptide
-71@72@Jidenna Featuring Roman GianArthur@Classic Man
-72@73@Elle King@Ex's & Oh's
-73@74@Meghan Trainor@Dear Future Husband
-74@75@Charlie Puth Featuring Meghan Trainor@Marvin Gaye
-75@76@Meghan Trainor Featuring John Legend@Like I'm Gonna Lose You
-76@77@Tove Lo@Habits (Stay High)
-77@78@James Newton Howard Featuring Jennifer Lawrence@The Hanging Tree
-78@79@O.T. Genasis@CoCo
-79@80@Jessie J, Ariana Grande & Nicki Minaj@Bang Bang
-80@81@Sam Smith@Lay Me Down
-81@82@I LOVE MAKONNEN Featuring Drake@Tuesday
-82@83@iLoveMemphis@Hit The Quan
-83@84@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@Downtown
-84@85@Sam Hunt@House Party
-85@86@Chris Brown & Tyga@Ayo
-86@87@Luke Bryan@Kick The Dust Up
-87@88@Big Sean Featuring Drake@Blessings
-88@89@George Ezra@Budapest
-89@90@Sia@Chandelier
-90@91@Kelly Clarkson@Heartbeat Song
-91@92@Ed Sheeran@Don't
-92@93@Ella Henderson@Ghost
-93@94@Alessia Cara@Here
-94@95@Mr. Probz@Waves
-95@96@Nicky Jam & Enrique Iglesias@El Perdon (Forgiveness)
-96@97@Ne-Yo Featuring Juicy J@She Knows
-97@98@One Direction@Night Changes
-98@99@Drake@Back To Back
-99@100@Calvin Harris & Disciples@How Deep Is Your Love
+@index@position@year@title@artist@decade@song_key
+0@0@1@2015@Uptown Funk!@Mark Ronson Featuring Bruno Mars@2010@2015_1
+1@1@2@2015@Thinking Out Loud@Ed Sheeran@2010@2015_2
+2@2@3@2015@See You Again@Wiz Khalifa Featuring Charlie Puth@2010@2015_3
+3@3@4@2015@Trap Queen@Fetty Wap@2010@2015_4
+4@4@5@2015@Sugar@Maroon 5@2010@2015_5
+5@5@6@2015@Shut Up And Dance@WALK THE MOON@2010@2015_6
+6@6@7@2015@Blank Space@Taylor Swift@2010@2015_7
+7@7@8@2015@Watch Me@Silento@2010@2015_8
+8@8@9@2015@Earned It (Fifty Shades Of Grey)@The Weeknd@2010@2015_9
+9@9@10@2015@The Hills@The Weeknd@2010@2015_10
+10@10@11@2015@Cheerleader@OMI@2010@2015_11
+11@11@12@2015@Can't Feel My Face@The Weeknd@2010@2015_12
+12@12@13@2015@Love Me Like You Do@Ellie Goulding@2010@2015_13
+13@13@14@2015@Take Me To Church@Hozier@2010@2015_14
+14@14@15@2015@Bad Blood@Taylor Swift Featuring Kendrick Lamar@2010@2015_15
+15@15@16@2015@Lean On@Major Lazer & DJ Snake Featuring MO@2010@2015_16
+16@16@17@2015@Want To Want Me@Jason Derulo@2010@2015_17
+17@17@18@2015@Shake It Off@Taylor Swift@2010@2015_18
+18@18@19@2015@Where Are U Now@Skrillex & Diplo With Justin Bieber@2010@2015_19
+19@19@20@2015@Fight Song@Rachel Platten@2010@2015_20
+20@20@21@2015@679@Fetty Wap Featuring Remy Boyz@2010@2015_21
+21@21@22@2015@Lips Are Movin@Meghan Trainor@2010@2015_22
+22@22@23@2015@Worth It@Fifth Harmony Featuring Kid Ink@2010@2015_23
+23@23@24@2015@Post To Be@Omarion Featuring Chris Brown & Jhene Aiko@2010@2015_24
+24@24@25@2015@Honey, I'm Good.@Andy Grammer@2010@2015_25
+25@25@26@2015@I'm Not The Only One@Sam Smith@2010@2015_26
+26@26@27@2015@Good For You@Selena Gomez Featuring A$AP Rocky@2010@2015_27
+27@27@28@2015@All About That Bass@Meghan Trainor@2010@2015_28
+28@28@29@2015@Style@Taylor Swift@2010@2015_29
+29@29@30@2015@Hotline Bling@Drake@2010@2015_30
+30@30@31@2015@Hey Mama@David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack@2010@2015_31
+31@31@32@2015@G.D.F.R.@Flo Rida Featuring Sage The Gemini & Lookas@2010@2015_32
+32@32@33@2015@What Do You Mean?@Justin Bieber@2010@2015_33
+33@33@34@2015@Photograph@Ed Sheeran@2010@2015_34
+34@34@35@2015@Hello@Adele@2010@2015_35
+35@35@36@2015@Stitches@Shawn Mendes@2010@2015_36
+36@36@37@2015@Talking Body@Tove Lo@2010@2015_37
+37@37@38@2015@Jealous@Nick Jonas@2010@2015_38
+38@38@39@2015@Time Of Our Lives@Pitbull & Ne-Yo@2010@2015_39
+39@39@40@2015@Locked Away@R. City Featuring Adam Levine@2010@2015_40
+40@40@41@2015@Somebody@Natalie La Rose Featuring Jeremih@2010@2015_41
+41@41@42@2015@FourFiveSeconds@Rihanna & Kanye West & Paul McCartney@2010@2015_42
+42@42@43@2015@Centuries@Fall Out Boy@2010@2015_43
+43@43@44@2015@My Way@Fetty Wap Featuring Monty@2010@2015_44
+44@44@45@2015@Take Your Time@Sam Hunt@2010@2015_45
+45@45@46@2015@Animals@Maroon 5@2010@2015_46
+46@46@47@2015@I Don't F**k With You@Big Sean Featuring E-40@2010@2015_47
+47@47@48@2015@B**** Better Have My Money@Rihanna@2010@2015_48
+48@48@49@2015@Flex (Ooh Ooh Ooh)@Rich Homie Quan@2010@2015_49
+49@49@50@2015@Nasty Freestyle@T-Wayne@2010@2015_50
+50@50@51@2015@Only@Nicki Minaj Featuring Drake, Lil Wayne & Chris Brown@2010@2015_51
+51@51@52@2015@Elastic Heart@Sia@2010@2015_52
+52@52@53@2015@Cool For The Summer@Demi Lovato@2010@2015_53
+53@53@54@2015@Renegades@X Ambassadors@2010@2015_54
+54@54@55@2015@I Don't Mind@Usher Featuring Juicy J@2010@2015_55
+55@55@56@2015@Love Me Harder@Ariana Grande & The Weeknd@2010@2015_56
+56@56@57@2015@Wildest Dreams@Taylor Swift@2010@2015_57
+57@57@58@2015@Stay With Me@Sam Smith@2010@2015_58
+58@58@59@2015@You Know You Like It@DJ Snake & AlunaGeorge@2010@2015_59
+59@59@60@2015@Uma Thurman@Fall Out Boy@2010@2015_60
+60@60@61@2015@7/11@Beyonce@2010@2015_61
+61@61@62@2015@The Heart Wants What It Wants@Selena Gomez@2010@2015_62
+62@62@63@2015@Girl Crush@Little Big Town@2010@2015_63
+63@63@64@2015@Slow Motion@Trey Songz@2010@2015_64
+64@64@65@2015@Drag Me Down@One Direction@2010@2015_65
+65@65@66@2015@Truffle Butter@Nicki Minaj Featuring Drake & Lil Wayne@2010@2015_66
+66@66@67@2015@One Last Time@Ariana Grande@2010@2015_67
+67@67@68@2015@Chains@Nick Jonas@2010@2015_68
+68@68@69@2015@All Eyes On You@Meek Mill Featuring Chris Brown & Nicki Minaj@2010@2015_69
+69@69@70@2015@No Type@Rae Sremmurd@2010@2015_70
+70@70@71@2015@Riptide@Vance Joy@2010@2015_71
+71@71@72@2015@Classic Man@Jidenna Featuring Roman GianArthur@2010@2015_72
+72@72@73@2015@Ex's & Oh's@Elle King@2010@2015_73
+73@73@74@2015@Dear Future Husband@Meghan Trainor@2010@2015_74
+74@74@75@2015@Marvin Gaye@Charlie Puth Featuring Meghan Trainor@2010@2015_75
+75@75@76@2015@Like I'm Gonna Lose You@Meghan Trainor Featuring John Legend@2010@2015_76
+76@76@77@2015@Habits (Stay High)@Tove Lo@2010@2015_77
+77@77@78@2015@The Hanging Tree@James Newton Howard Featuring Jennifer Lawrence@2010@2015_78
+78@78@79@2015@CoCo@O.T. Genasis@2010@2015_79
+79@79@80@2015@Bang Bang@Jessie J, Ariana Grande & Nicki Minaj@2010@2015_80
+80@80@81@2015@Lay Me Down@Sam Smith@2010@2015_81
+81@81@82@2015@Tuesday@I LOVE MAKONNEN Featuring Drake@2010@2015_82
+82@82@83@2015@Hit The Quan@iLoveMemphis@2010@2015_83
+83@83@84@2015@Downtown@Macklemore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz@2010@2015_84
+84@84@85@2015@House Party@Sam Hunt@2010@2015_85
+85@85@86@2015@Ayo@Chris Brown & Tyga@2010@2015_86
+86@86@87@2015@Kick The Dust Up@Luke Bryan@2010@2015_87
+87@87@88@2015@Blessings@Big Sean Featuring Drake@2010@2015_88
+88@88@89@2015@Budapest@George Ezra@2010@2015_89
+89@89@90@2015@Chandelier@Sia@2010@2015_90
+90@90@91@2015@Heartbeat Song@Kelly Clarkson@2010@2015_91
+91@91@92@2015@Don't@Ed Sheeran@2010@2015_92
+92@92@93@2015@Ghost@Ella Henderson@2010@2015_93
+93@93@94@2015@Here@Alessia Cara@2010@2015_94
+94@94@95@2015@Waves@Mr. Probz@2010@2015_95
+95@95@96@2015@El Perdon (Forgiveness)@Nicky Jam & Enrique Iglesias@2010@2015_96
+96@96@97@2015@She Knows@Ne-Yo Featuring Juicy J@2010@2015_97
+97@97@98@2015@Night Changes@One Direction@2010@2015_98
+98@98@99@2015@Back To Back@Drake@2010@2015_99
+99@99@100@2015@How Deep Is Your Love@Calvin Harris & Disciples@2010@2015_100

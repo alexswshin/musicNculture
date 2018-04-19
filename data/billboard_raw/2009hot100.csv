@@ -1,102 +1,102 @@
-@rank@artist@title
-0@1@The Black Eyed Peas@Boom Boom Pow
-1@2@Lady Gaga@Poker Face
-2@3@Lady Gaga Featuring Colby O'Donis@Just Dance
-3@4@The Black Eyed Peas@I Gotta Feeling
-4@5@Taylor Swift@Love Story
-5@6@Flo Rida@Right Round
-6@7@Jason Mraz@I'm Yours
-7@8@Beyonce@Single Ladies (Put A Ring On It)
-8@9@Kanye West@Heartless
-9@10@The All-American Rejects@Gives You Hell
-10@11@Taylor Swift@You Belong With Me
-11@12@T.I. Featuring Justin Timberlake@Dead And Gone
-12@13@The Fray@You Found Me
-13@14@Kings Of Leon@Use Somebody
-14@15@Keri Hilson Featuring Kanye West & Ne-Yo@Knock You Down
-15@16@Jamie Foxx Featuring T-Pain@Blame It
-16@17@Pitbull@I Know You Want Me (Calle Ocho)
-17@18@T.I. Featuring Rihanna@Live Your Life
-18@19@Soulja Boy Tell 'em Featuring Sammie@"Kiss Me Thru The Phone
- "
-19@20@Jay Sean Featuring Lil Wayne@Down
-20@21@Miley Cyrus@The Climb
-21@22@Drake@ Best I Ever Had
-22@23@Kelly Clarkson@My Life Would Suck Without You
-23@24@Beyonce@Halo
-24@25@Katy Perry@Hot N Cold
-25@26@Shinedown@Second Chance
-26@27@Britney Spears@Circus
-27@28@Kid Cudi@Day 'N' Nite
-28@29@Miley Cyrus@Party In The U.S.A.
-29@30@3OH!3@Don't Trust Me
-30@31@Jay-Z, Rihanna & Kanye West@Run This Town
-31@32@Kevin Rudolf Featuring Lil Wayne@Let It Rock
-32@33@Sean Kingston@Fire Burning
-33@34@Jason Derulo@Whatcha Say
-34@35@Lady Gaga@LoveGame
-35@36@Katy Perry@Waking Up In Vegas
-36@37@Jeremih@Birthday Sex
-37@38@P!nk@Sober
-38@39@Britney Spears@Womanizer
-39@40@T.I.@Whatever You Like
-40@41@Mariah Carey@Obsessed
-41@42@Ne-Yo@Mad
-42@43@Cobra Starship Featuring Leighton Meester@Good Girls Go Bad
-43@44@Kanye West@Love Lockdown
-44@45@P!nk@So What
-45@46@Pitbull@Hotel Room Service
-46@47@Eminem, Dr. Dre & 50 Cent@Crack A Bottle
-47@48@Beyonce@If I Were A Boy
-48@49@Keri Hilson Featuring Lil Wayne@Turnin Me On
-49@50@The Pussycat Dolls@I Hate This Part
-50@51@Nickelback@Gotta Be Somebody
-51@52@P!nk@Please Don't Leave Me
-52@53@Lady Gaga@Paparazzi
-53@54@Akon Featuring Colby O'Donis & Kardinal Offishall@Beautiful
-54@55@Coldplay@Viva La Vida
-55@56@Akon@Right Now (Na Na Na)
-56@57@Jordin Sparks@Battlefield
-57@58@Flo Rida Featuring Wynter@Sugar
-58@59@Ne-Yo@Miss Independent
-59@60@Owl City@Fireflies
-60@61@Linkin Park@New Divide
-61@62@Jay-Z + Alicia Keys@Empire State Of Mind
-62@63@Daughtry@No Surprise
-63@64@Shakira@She Wolf
-64@65@Mario Featuring Gucci Mane & Sean Garrett@Break Up
-65@66@Beyonce@Sweet Dreams
-66@67@Young Money@Every Girl
-67@68@Colbie Caillat@Fallin' For You
-68@69@The Veronicas@Untouched
-69@70@Nickelback@If Today Was Your Last Day
-70@71@Fabolous Featuring The-Dream@Throw It In The Bag
-71@72@Boys Like Girls@Love Drunk
-72@73@Asher Roth@I Love College
-73@74@Britney Spears@If U Seek Amy
-74@75@Jason Aldean@Big Green Tractor
-75@76@Taylor Swift@White Horse
-76@77@Rihanna@Disturbia
-77@78@Green Day@21 Guns
-78@79@Soulja Boy Tell'em@Turn My Swag On
-79@80@The-Dream@Rockin' That Thang
-80@81@Zac Brown Band@Chicken Fried
-81@82@Beyonce@Diva
-82@83@Iyaz@Replay
-83@84@Brad Paisley@Then
-84@85@Rob Thomas@Her Diamonds
-85@86@Jesse McCartney Featuring Ludacris@How Do You Sleep?
-86@87@ Britney Spears@3
-87@88@Drake Featuring Kanye West, Lil Wayne & Eminem@Forever
-88@89@Justin Bieber@One Time
-89@90@Lady Antebellum@I Run To You
-90@91@Kelly Clarkson@I Do Not Hook Up
-91@92@John Legend Featuring Andre 3000@Green Light
-92@93@Billy Currington@People Are Crazy
-93@94@Zac Brown Band@Whatever It Is
-94@95@Kelly Clarkson@Already Gone
-95@96@Kristinia DeBarge@Goodbye
-96@97@Michael Franti & Spearhead Featuring Cherine Anderson@Say Hey (I Love You)
-97@98@Jim Jones & Ron Browz Featuring Juelz Santana@Pop Champagne
-98@99@Maxwell@Pretty Wings
-99@100@The Fray@Never Say Never
+@index@position@year@title@artist@decade@song_key
+0@0@1@2009@Boom Boom Pow@The Black Eyed Peas@2000@2009_1
+1@1@2@2009@Poker Face@Lady Gaga@2000@2009_2
+2@2@3@2009@Just Dance@Lady Gaga Featuring Colby O'Donis@2000@2009_3
+3@3@4@2009@I Gotta Feeling@The Black Eyed Peas@2000@2009_4
+4@4@5@2009@Love Story@Taylor Swift@2000@2009_5
+5@5@6@2009@Right Round@Flo Rida@2000@2009_6
+6@6@7@2009@I'm Yours@Jason Mraz@2000@2009_7
+7@7@8@2009@Single Ladies (Put A Ring On It)@Beyonce@2000@2009_8
+8@8@9@2009@Heartless@Kanye West@2000@2009_9
+9@9@10@2009@Gives You Hell@The All-American Rejects@2000@2009_10
+10@10@11@2009@You Belong With Me@Taylor Swift@2000@2009_11
+11@11@12@2009@Dead And Gone@T.I. Featuring Justin Timberlake@2000@2009_12
+12@12@13@2009@You Found Me@The Fray@2000@2009_13
+13@13@14@2009@Use Somebody@Kings Of Leon@2000@2009_14
+14@14@15@2009@Knock You Down@Keri Hilson Featuring Kanye West & Ne-Yo@2000@2009_15
+15@15@16@2009@Blame It@Jamie Foxx Featuring T-Pain@2000@2009_16
+16@16@17@2009@I Know You Want Me (Calle Ocho)@Pitbull@2000@2009_17
+17@17@18@2009@Live Your Life@T.I. Featuring Rihanna@2000@2009_18
+18@18@19@2009@"Kiss Me Thru The Phone
+ "@Soulja Boy Tell 'em Featuring Sammie@2000@2009_19
+19@19@20@2009@Down@Jay Sean Featuring Lil Wayne@2000@2009_20
+20@20@21@2009@The Climb@Miley Cyrus@2000@2009_21
+21@21@22@2009@ Best I Ever Had@Drake@2000@2009_22
+22@22@23@2009@My Life Would Suck Without You@Kelly Clarkson@2000@2009_23
+23@23@24@2009@Halo@Beyonce@2000@2009_24
+24@24@25@2009@Hot N Cold@Katy Perry@2000@2009_25
+25@25@26@2009@Second Chance@Shinedown@2000@2009_26
+26@26@27@2009@Circus@Britney Spears@2000@2009_27
+27@27@28@2009@Day 'N' Nite@Kid Cudi@2000@2009_28
+28@28@29@2009@Party In The U.S.A.@Miley Cyrus@2000@2009_29
+29@29@30@2009@Don't Trust Me@3OH!3@2000@2009_30
+30@30@31@2009@Run This Town@Jay-Z, Rihanna & Kanye West@2000@2009_31
+31@31@32@2009@Let It Rock@Kevin Rudolf Featuring Lil Wayne@2000@2009_32
+32@32@33@2009@Fire Burning@Sean Kingston@2000@2009_33
+33@33@34@2009@Whatcha Say@Jason Derulo@2000@2009_34
+34@34@35@2009@LoveGame@Lady Gaga@2000@2009_35
+35@35@36@2009@Waking Up In Vegas@Katy Perry@2000@2009_36
+36@36@37@2009@Birthday Sex@Jeremih@2000@2009_37
+37@37@38@2009@Sober@P!nk@2000@2009_38
+38@38@39@2009@Womanizer@Britney Spears@2000@2009_39
+39@39@40@2009@Whatever You Like@T.I.@2000@2009_40
+40@40@41@2009@Obsessed@Mariah Carey@2000@2009_41
+41@41@42@2009@Mad@Ne-Yo@2000@2009_42
+42@42@43@2009@Good Girls Go Bad@Cobra Starship Featuring Leighton Meester@2000@2009_43
+43@43@44@2009@Love Lockdown@Kanye West@2000@2009_44
+44@44@45@2009@So What@P!nk@2000@2009_45
+45@45@46@2009@Hotel Room Service@Pitbull@2000@2009_46
+46@46@47@2009@Crack A Bottle@Eminem, Dr. Dre & 50 Cent@2000@2009_47
+47@47@48@2009@If I Were A Boy@Beyonce@2000@2009_48
+48@48@49@2009@Turnin Me On@Keri Hilson Featuring Lil Wayne@2000@2009_49
+49@49@50@2009@I Hate This Part@The Pussycat Dolls@2000@2009_50
+50@50@51@2009@Gotta Be Somebody@Nickelback@2000@2009_51
+51@51@52@2009@Please Don't Leave Me@P!nk@2000@2009_52
+52@52@53@2009@Paparazzi@Lady Gaga@2000@2009_53
+53@53@54@2009@Beautiful@Akon Featuring Colby O'Donis & Kardinal Offishall@2000@2009_54
+54@54@55@2009@Viva La Vida@Coldplay@2000@2009_55
+55@55@56@2009@Right Now (Na Na Na)@Akon@2000@2009_56
+56@56@57@2009@Battlefield@Jordin Sparks@2000@2009_57
+57@57@58@2009@Sugar@Flo Rida Featuring Wynter@2000@2009_58
+58@58@59@2009@Miss Independent@Ne-Yo@2000@2009_59
+59@59@60@2009@Fireflies@Owl City@2000@2009_60
+60@60@61@2009@New Divide@Linkin Park@2000@2009_61
+61@61@62@2009@Empire State Of Mind@Jay-Z + Alicia Keys@2000@2009_62
+62@62@63@2009@No Surprise@Daughtry@2000@2009_63
+63@63@64@2009@She Wolf@Shakira@2000@2009_64
+64@64@65@2009@Break Up@Mario Featuring Gucci Mane & Sean Garrett@2000@2009_65
+65@65@66@2009@Sweet Dreams@Beyonce@2000@2009_66
+66@66@67@2009@Every Girl@Young Money@2000@2009_67
+67@67@68@2009@Fallin' For You@Colbie Caillat@2000@2009_68
+68@68@69@2009@Untouched@The Veronicas@2000@2009_69
+69@69@70@2009@If Today Was Your Last Day@Nickelback@2000@2009_70
+70@70@71@2009@Throw It In The Bag@Fabolous Featuring The-Dream@2000@2009_71
+71@71@72@2009@Love Drunk@Boys Like Girls@2000@2009_72
+72@72@73@2009@I Love College@Asher Roth@2000@2009_73
+73@73@74@2009@If U Seek Amy@Britney Spears@2000@2009_74
+74@74@75@2009@Big Green Tractor@Jason Aldean@2000@2009_75
+75@75@76@2009@White Horse@Taylor Swift@2000@2009_76
+76@76@77@2009@Disturbia@Rihanna@2000@2009_77
+77@77@78@2009@21 Guns@Green Day@2000@2009_78
+78@78@79@2009@Turn My Swag On@Soulja Boy Tell'em@2000@2009_79
+79@79@80@2009@Rockin' That Thang@The-Dream@2000@2009_80
+80@80@81@2009@Chicken Fried@Zac Brown Band@2000@2009_81
+81@81@82@2009@Diva@Beyonce@2000@2009_82
+82@82@83@2009@Replay@Iyaz@2000@2009_83
+83@83@84@2009@Then@Brad Paisley@2000@2009_84
+84@84@85@2009@Her Diamonds@Rob Thomas@2000@2009_85
+85@85@86@2009@How Do You Sleep?@Jesse McCartney Featuring Ludacris@2000@2009_86
+86@86@87@2009@3@ Britney Spears@2000@2009_87
+87@87@88@2009@Forever@Drake Featuring Kanye West, Lil Wayne & Eminem@2000@2009_88
+88@88@89@2009@One Time@Justin Bieber@2000@2009_89
+89@89@90@2009@I Run To You@Lady Antebellum@2000@2009_90
+90@90@91@2009@I Do Not Hook Up@Kelly Clarkson@2000@2009_91
+91@91@92@2009@Green Light@John Legend Featuring Andre 3000@2000@2009_92
+92@92@93@2009@People Are Crazy@Billy Currington@2000@2009_93
+93@93@94@2009@Whatever It Is@Zac Brown Band@2000@2009_94
+94@94@95@2009@Already Gone@Kelly Clarkson@2000@2009_95
+95@95@96@2009@Goodbye@Kristinia DeBarge@2000@2009_96
+96@96@97@2009@Say Hey (I Love You)@Michael Franti & Spearhead Featuring Cherine Anderson@2000@2009_97
+97@97@98@2009@Pop Champagne@Jim Jones & Ron Browz Featuring Juelz Santana@2000@2009_98
+98@98@99@2009@Pretty Wings@Maxwell@2000@2009_99
+99@99@100@2009@Never Say Never@The Fray@2000@2009_100
